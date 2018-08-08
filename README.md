@@ -1,1 +1,1 @@
-# Topic-for-the-sumArray-
+# Topic-for-the-sumArray()-
